@@ -1,13 +1,12 @@
 Debora Tzunun
 deborat5786@hstat.org
 Telecommuntion High School Art & Technology
--------------------------------------------------------------------
+
 ###Bio
 
 *I, Debora, loves to draw and art*
 ###Debora's Likes and Dislikes
-___
-
+---
 ##Likes:
 * Tacos
 * Cupcakes
@@ -15,13 +14,15 @@ ___
 * Music 
 * Stuffed teddy bears 
 * Big Mac xD 
-* Frozen 
+* Frozen :heart_eyes:
 * Despicable Me 
 * and more ! <3 
 
 ##Dislikes: 
 * Being small
-* Scary Movies 
+* Scary Movies
+  * Unfriended 
+  * Chucky
 * Depression 
 * School
 * Beans
