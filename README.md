@@ -2,11 +2,11 @@ Debora Tzunun
 
 deborat5786@hstat.org
 
-Telecommuntion High School Art & Technology
+_Telecommuntion High School Art & Technology_
 
 ###Bio
 
-*I love to draw and art. Love to watch youtube videos! funny ones! I love to watch tv and eat pie and random times! *
+_I love to draw and art. Love to watch youtube videos! funny ones! I love to watch tv and eat pie and random times!_ 
 
 -------------------------------------------------------
 
