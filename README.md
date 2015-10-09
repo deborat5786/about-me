@@ -1,12 +1,15 @@
 Debora Tzunun
+
 deborat5786@hstat.org
+
 Telecommuntion High School Art & Technology
 
 ###Bio
 
-*I, Debora, loves to draw and art*
-###Debora's Likes and Dislikes
----
+*I love to draw and art. Love to watch youtube videos! funny ones! I love to watch tv and eat pie and random times! 
+-------------------------------------------------------
+
+
 ##Likes:
 * Tacos
 * Cupcakes
