@@ -3,9 +3,11 @@ deborat5786@hstat.org
 Telecommuntion High School Art & Technology
 -------------------------------------------------------------------
 ###Bio
-_____________
-I, Debora, loves to draw and art
-Debora's Likes and Dislikes
+
+*I, Debora, loves to draw and art*
+###Debora's Likes and Dislikes
+___
+
 ##Likes:
 * Tacos
 * Cupcakes
@@ -30,7 +32,7 @@ Debora's Likes and Dislikes
 3. U.S History
 4. Physics 
 5. Lunch 
-6. Global History 
+6. GH review class
 7. Ablegra 2 
 8. Spanish 
 9. Gym 
