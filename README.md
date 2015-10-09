@@ -6,7 +6,8 @@ Telecommuntion High School Art & Technology
 
 ###Bio
 
-*I love to draw and art. Love to watch youtube videos! funny ones! I love to watch tv and eat pie and random times! 
+*I love to draw and art. Love to watch youtube videos! funny ones! I love to watch tv and eat pie and random times! *
+
 -------------------------------------------------------
 
 
