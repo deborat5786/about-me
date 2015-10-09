@@ -4,14 +4,14 @@ deborat5786@hstat.org
 
 _Telecommuntion High School Art & Technology_
 
-###Bio
+##Bio
 
 _I love to draw and art. Love to watch youtube videos! funny ones! I love to watch tv and eat pie and random times!_ 
 
 -------------------------------------------------------
 
 
-##Likes:
+#Likes:
 * Tacos
 * Cupcakes
 * Drawing
@@ -22,7 +22,7 @@ _I love to draw and art. Love to watch youtube videos! funny ones! I love to wat
 * Despicable Me 
 * and more ! <3 
 
-##Dislikes: 
+#Dislikes: 
 * Being small
 * Scary Movies
   * Unfriended 
@@ -31,7 +31,7 @@ _I love to draw and art. Love to watch youtube videos! funny ones! I love to wat
 * School
 * Beans
 
-##Debora's Schedule
+#Debora's Schedule
 1. Software Engineering Program
 2. English 
 3. U.S History
