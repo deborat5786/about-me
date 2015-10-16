@@ -12,32 +12,29 @@ _I love to draw and art. Love to watch youtube videos! funny ones! I love to wat
 
 
 #Likes:
-* Tacos
-* Cupcakes
+* Chipotle
+* Steak
 * Drawing
 * Music 
-* Stuffed teddy bears 
+* Elephants 
 * Big Mac xD 
-* Frozen :heart_eyes:
-* Despicable Me 
-* and more ! <3 
+* Swimming :heart_eyes:
+* Hang Over Series 
+
 
 #Dislikes: 
-* Being small
+* Being short
 * Scary Movies
-  * Unfriended 
-  * Chucky
 * Depression 
-* School
+* School :sad_eyes:
 * Beans
 
 #Debora's Schedule
 1. Software Engineering Program
 2. English 
 3. U.S History
-4. Physics 
-5. Lunch 
-6. GH review class
-7. Ablegra 2 
+4. Service 
+5. Math 
+6. Lunch
+7. Physics 
 8. Spanish 
-9. Gym 
